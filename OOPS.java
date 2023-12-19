@@ -1,4 +1,4 @@
-package bank;
+
 // class pen{
 //     String type;
 //     String color;//ball or gell

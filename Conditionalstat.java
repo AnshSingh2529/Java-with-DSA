@@ -40,7 +40,7 @@ public class Conditionalstat {
     
 //         default: System.out.println("you are at your home");
             
-//     }
+    }
 
-// }
+}
 

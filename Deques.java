@@ -3,7 +3,7 @@ import java.util.*;
 public class Deques {
 
     public static void main(String args[]){
-        Deque<Integer> dq = new LinkedList<>();
+        Deque <Integer> dq = new LinkedList<>();
 
         //Add
         dq.addFirst(1);

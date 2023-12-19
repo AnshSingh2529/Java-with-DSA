@@ -176,10 +176,11 @@ public class Functions {
 //     int digit = sc.nextInt();
 //     System.out.println("The sum is :  " + sumDigits(digit));
     
-// }
+
 public static void main(String args[]){
     
 
     }
+}
 
 
